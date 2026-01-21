@@ -120,30 +120,30 @@ struct RecipeDetailView: View {
     }
 }
 
-//#Preview("Recipe Detail") {
-//    RecipeDetailView(
-//        recipe: Recipe(
-//            id: "recipe_001",
-//            title: "Asian Flank Steak",
-//            description: "Tender flank steak marinated in savory Asian flavors and grilled to perfection.",
-//            numberOfServings: 2,
-//            ingredients: [
-//                "500 g flank steak",
-//                "3 tbsp soy sauce",
-//                "2 tbsp oyster sauce",
-//                "1 tbsp brown sugar",
-//                "2 cloves garlic",
-//                "1 tsp grated ginger",
-//                "1 tbsp sesame oil"
-//              ],
-//            cookingInstructions: [
-//                "Mix soy sauce, oyster sauce, sugar, garlic, ginger, and sesame oil.",
-//                "Marinate steak for 30 minutes.",
-//                "Heat grill pan and cook steak 4–5 minutes per side.",
-//                "Rest meat before slicing and serving."
-//              ],
-//            dietaryAttributes: [.dairyFree],
-//            localImage: "asian_flank_steak"
-//        )
-//    )
-//}
+#Preview("Recipe Detail") {
+    RecipeDetailView(
+        recipe: Recipe(
+            id: "recipe_001",
+            title: "Asian Flank Steak",
+            description: "Tender flank steak marinated in savory Asian flavors and grilled to perfection.",
+            numberOfServings: 2,
+            ingredients: [
+                "500 g flank steak",
+                "3 tbsp soy sauce",
+                "2 tbsp oyster sauce",
+                "1 tbsp brown sugar",
+                "2 cloves garlic",
+                "1 tsp grated ginger",
+                "1 tbsp sesame oil"
+              ],
+            cookingInstructions: [
+                "Mix soy sauce, oyster sauce, sugar, garlic, ginger, and sesame oil.",
+                "Marinate steak for 30 minutes.",
+                "Heat grill pan and cook steak 4–5 minutes per side.",
+                "Rest meat before slicing and serving."
+              ],
+            dietaryAttributes: [.dairyFree],
+            localImage: "asian_flank_steak"
+        )
+    )
+}

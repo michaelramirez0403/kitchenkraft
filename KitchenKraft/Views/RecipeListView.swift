@@ -128,3 +128,14 @@ struct RecipeListView: View {
         }
     }
 }
+
+#Preview("Recipe List") {
+    let coordinator = AppCoordinator()
+
+    let api = MockRecipeAPI(file: .recipes)
+    let repository = RecipeRepository(api: api)
+    let viewModel = RecipeListViewModel(repository: repository)
+
+    return RecipeListView(viewModel: viewModel)
+        .environmentObject(coordinator)
+}
