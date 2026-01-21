@@ -1,0 +1,279 @@
+[
+  {
+    "id": "recipe_001",
+    "title": "Asian Flank Steak",
+    "description": "Tender flank steak marinated in savory Asian flavors and grilled to perfection.",
+    "numberOfServings": 2,
+    "ingredients": [
+      "500 g flank steak",
+      "3 tbsp soy sauce",
+      "2 tbsp oyster sauce",
+      "1 tbsp brown sugar",
+      "2 cloves garlic",
+      "1 tsp grated ginger",
+      "1 tbsp sesame oil"
+    ],
+    "cookingInstructions": [
+      "Mix soy sauce, oyster sauce, sugar, garlic, ginger, and sesame oil.",
+      "Marinate steak for 30 minutes.",
+      "Heat grill pan and cook steak 4–5 minutes per side.",
+      "Rest meat before slicing and serving."
+    ],
+    "dietaryAttributes": ["dairy-free"],
+    "localImage": "asian_flank_steak.jpg"
+  },
+  {
+    "id": "recipe_002",
+    "title": "Blackened Shrimp",
+    "description": "Spicy shrimp pan-seared with bold blackened seasoning.",
+    "numberOfServings": 2,
+    "ingredients": [
+      "400 g shrimp",
+      "1 tbsp paprika",
+      "1/2 tsp cayenne pepper",
+      "1/2 tsp garlic powder",
+      "Salt and pepper",
+      "1 tbsp olive oil"
+    ],
+    "cookingInstructions": [
+      "Combine seasoning ingredients.",
+      "Coat shrimp evenly.",
+      "Heat oil and sear shrimp 2–3 minutes per side.",
+      "Serve hot.",
+      "Optional: Add lemon wedges and chopped parsley.",
+      "Serve with rice or salad.",
+      "Tip: Don’t overcrowd the pan.",
+      "Tip: Adjust cayenne to taste."
+    ],
+    "dietaryAttributes": ["gluten-free", "contains-shellfish"],
+    "localImage": "blackened_shrimp.jpg"
+  },
+  {
+    "id": "recipe_003",
+    "title": "Buffalo Chicken Bites",
+    "description": "Crispy chicken bites tossed in classic buffalo sauce.",
+    "numberOfServings": 3,
+    "ingredients": [
+      "500 g chicken breast",
+      "1 cup flour",
+      "Salt and pepper",
+      "Oil for frying",
+      "1/2 cup buffalo sauce",
+      "2 tbsp butter"
+    ],
+    "cookingInstructions": [
+      "Coat chicken in seasoned flour.",
+      "Deep fry until golden.",
+      "Mix buffalo sauce with melted butter.",
+      "Toss chicken in sauce."
+    ],
+    "dietaryAttributes": ["contains-dairy"],
+    "localImage": "buffalo_chicken_bites.jpg"
+  },
+  {
+    "id": "recipe_004",
+    "title": "Chicken Avocado Spring Roll",
+    "description": "Crunchy spring rolls stuffed with chicken and fresh avocado.",
+    "numberOfServings": 4,
+    "ingredients": [
+      "300 g cooked chicken",
+      "1 avocado",
+      "Spring roll wrappers",
+      "Carrot strips",
+      "Mayonnaise",
+      "Oil for frying"
+    ],
+    "cookingInstructions": [
+      "Mix chicken with mayonnaise.",
+      "Add filling to wrapper.",
+      "Roll tightly and seal edges.",
+      "Fry until golden brown."
+    ],
+    "dietaryAttributes": ["contains-dairy"],
+    "localImage": "chicken_avocado_spring_roll.jpg"
+  },
+  {
+    "id": "recipe_005",
+    "title": "Honey Garlic Wings",
+    "description": "Sticky chicken wings glazed with sweet honey garlic sauce.",
+    "numberOfServings": 4,
+    "ingredients": [
+      "1 kg chicken wings",
+      "1/4 cup honey",
+      "3 cloves garlic",
+      "2 tbsp soy sauce",
+      "1 tbsp butter"
+    ],
+    "cookingInstructions": [
+      "Bake wings at 200°C until crispy.",
+      "Simmer honey, garlic, soy sauce, and butter.",
+      "Toss wings in glaze.",
+      "Serve warm."
+    ],
+    "dietaryAttributes": ["contains-dairy"],
+    "localImage": "honey_garlic_wings.jpg"
+  },
+  {
+    "id": "recipe_006",
+    "title": "Teriyaki Tofu Bites",
+    "description": "Crispy tofu cubes coated in sweet teriyaki glaze.",
+    "numberOfServings": 3,
+    "ingredients": [
+      "400 g firm tofu",
+      "1/3 cup teriyaki sauce",
+      "1 tbsp cornstarch",
+      "Oil for frying"
+    ],
+    "cookingInstructions": [
+      "Cut tofu into cubes.",
+      "Coat lightly with cornstarch.",
+      "Pan fry until crispy.",
+      "Add teriyaki sauce and toss."
+    ],
+    "dietaryAttributes": ["vegan", "vegetarian", "dairy-free"],
+    "localImage": "teriyaki_tofu_bites.jpg"
+  },
+  {
+    "id": "recipe_007",
+    "title": "Spicy Tuna Tartare",
+    "description": "Fresh diced tuna mixed with spicy sauce and sesame oil.",
+    "numberOfServings": 2,
+    "ingredients": [
+      "200 g sushi-grade tuna",
+      "1 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "1 tbsp sriracha",
+      "Green onions"
+    ],
+    "cookingInstructions": [
+      "Dice tuna finely.",
+      "Mix sauce ingredients.",
+      "Combine tuna and sauce.",
+      "Chill before serving."
+    ],
+    "dietaryAttributes": ["gluten-free", "contains-fish"],
+    "localImage": "spicy_tuna_tartare.jpg"
+  },
+  {
+    "id": "recipe_008",
+    "title": "Avocado Lime Dip",
+    "description": "Creamy avocado dip with fresh lime and herbs.",
+    "numberOfServings": 3,
+    "ingredients": [
+      "2 ripe avocados",
+      "1 lime, juiced",
+      "Salt",
+      "Cilantro",
+      "Garlic powder"
+    ],
+    "cookingInstructions": [
+      "Mash avocados.",
+      "Add lime juice and seasoning.",
+      "Mix until smooth.",
+      "Serve chilled."
+    ],
+    "dietaryAttributes": ["vegan", "vegetarian", "gluten-free", "dairy-free"],
+    "localImage": "avocado_lime_dip.jpg"
+  },
+  {
+    "id": "recipe_009",
+    "title": "Crispy Calamari",
+    "description": "Golden fried squid rings with light crispy coating.",
+    "numberOfServings": 3,
+    "ingredients": [
+      "500 g squid rings",
+      "1 cup flour",
+      "Salt and pepper",
+      "Oil for frying"
+    ],
+    "cookingInstructions": [
+      "Season flour.",
+      "Coat squid rings.",
+      "Deep fry until golden.",
+      "Drain excess oil."
+    ],
+    "dietaryAttributes": ["contains-shellfish"],
+    "localImage": "crispy_calamari.jpg"
+  },
+  {
+    "id": "recipe_010",
+    "title": "Truffle Fries",
+    "description": "Crispy fries tossed with truffle oil and parmesan cheese.",
+    "numberOfServings": 3,
+    "ingredients": [
+      "500 g potatoes",
+      "Truffle oil",
+      "Salt",
+      "Parmesan cheese",
+      "Oil for frying"
+    ],
+    "cookingInstructions": [
+      "Cut potatoes into fries.",
+      "Deep fry until crispy.",
+      "Drizzle truffle oil.",
+      "Top with parmesan."
+    ],
+    "dietaryAttributes": ["vegetarian", "contains-dairy"],
+    "localImage": "truffle_fries.jpg"
+  },
+  {
+    "id": "recipe_011",
+    "title": "Caprese Skewers",
+    "description": "Fresh mozzarella, tomato, and basil skewers with balsamic drizzle.",
+    "numberOfServings": 2,
+    "ingredients": [
+      "Cherry tomatoes",
+      "Mozzarella balls",
+      "Fresh basil",
+      "Balsamic glaze"
+    ],
+    "cookingInstructions": [
+      "Assemble ingredients on skewers.",
+      "Drizzle balsamic glaze.",
+      "Serve chilled."
+    ],
+    "dietaryAttributes": ["vegetarian", "gluten-free", "contains-dairy"],
+    "localImage": "caprese_skewers.jpg"
+  },
+  {
+    "id": "recipe_012",
+    "title": "BBQ Pulled Pork Sliders",
+    "description": "Slow-cooked pulled pork served in soft slider buns.",
+    "numberOfServings": 4,
+    "ingredients": [
+      "800 g pork shoulder",
+      "BBQ sauce",
+      "Slider buns",
+      "Coleslaw"
+    ],
+    "cookingInstructions": [
+      "Slow cook pork until tender.",
+      "Shred meat and mix with BBQ sauce.",
+      "Assemble sliders with buns and slaw.",
+      "Serve warm."
+    ],
+    "dietaryAttributes": ["contains-pork"],
+    "localImage": "bbq_pulled_pork_sliders.jpg"
+  },
+  {
+    "id": "recipe_013",
+    "title": "Veggie Spring Rolls",
+    "description": "Crispy spring rolls filled with fresh vegetables.",
+    "numberOfServings": 4,
+    "ingredients": [
+      "Spring roll wrappers",
+      "Cabbage",
+      "Carrots",
+      "Bean sprouts",
+      "Oil for frying"
+    ],
+    "cookingInstructions": [
+      "Mix vegetables.",
+      "Fill wrappers and roll tightly.",
+      "Deep fry until golden.",
+      "Drain and serve."
+    ],
+    "dietaryAttributes": ["vegetarian", "vegan", "dairy-free"],
+    "localImage": "veggie_spring_rolls.jpg"
+  }
+]
