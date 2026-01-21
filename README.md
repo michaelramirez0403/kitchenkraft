@@ -64,7 +64,7 @@ No additional setup is required. The app uses a bundled mock JSON file.
 
 The project follows a modular MVVM architecture with Repository and Coordinator patterns to ensure clear separation of concerns and long-term scalability:
 
-SwiftUI View  →  ViewModel  →  Repository  →  Mock API (Local JSON)
+SwiftUI View  →  ViewModel  →  Repository  →  Mock API (Local JSON)<br />
        │
        └────────────→ Coordinator (Navigation & Routing)
 
