@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-ReciMe iOS is a native SwiftUI application that allows users to browse,
+Kitchenkraft iOS is a native SwiftUI application that allows users to browse,
 search, and filter a curated collection of cooking recipes. The app
 loads recipe data from a local mock API response (JSON file) and
 presents it using a clean, responsive grid-based UI with real-time
@@ -48,11 +48,11 @@ in the future.
 
 1.  Clone the repository:
 
-git clone https://github.com/your-username/recime-ios.git
+git clone https://github.com/michaelramirez0403/kitchenkraft
 
 2.  Open the project:
 
-open ReciMe.xcodeproj
+open xcodeproj
 
 3.  Select a simulator and run the project:
 
